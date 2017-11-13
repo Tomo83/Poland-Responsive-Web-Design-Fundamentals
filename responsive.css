@@ -76,6 +76,7 @@
     .scores {
         font-size: 1.2em;
         line-height: 1.25em;
+        overflow-x: auto;
     }
     
     .weather__next {
